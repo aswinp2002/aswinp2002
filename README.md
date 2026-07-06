@@ -54,6 +54,115 @@
 **aswinp.copilot@gmail.com**
 
 🌐 GitHub
+# 🚀 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+</p>
+
+---
+
+## 🌐 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django" height="55"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+<img src="https://skillicons.dev/icons?i=flask" height="55"/>
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
+</p>
+
+---
+
+## ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+</p>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| 🚀 Technology | 📈 Progress |
+|:-------------:|:----------:|
+| Django REST Framework | ████████░░ 80% |
+| FastAPI | ███████░░░ 70% |
+| Docker | ██████░░░░ 60% |
+| Artificial Intelligence | █████░░░░░ 50% |
+| GitHub Actions | ████░░░░░░ 40% |
+
+</div>
+
+---
+
+# 💡 What I'm Interested In
+
+✨ Backend Development
+
+✨ Python Automation
+
+✨ REST API Development
+
+✨ Artificial Intelligence
+
+✨ Database Design
+
+✨ Blockchain Applications
+
+✨ Open Source Contributions
+
+✨ Cloud Deployment
+
+---
+
+<div align="center">
+
+## ⚡ Favorite Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 
 **https://github.com/aswinp2002**
 
