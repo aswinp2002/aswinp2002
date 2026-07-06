@@ -1,186 +1,62 @@
-Act as an award-winning UI/UX designer and senior GitHub profile designer.
+<div align="center">
 
-Create the most beautiful GitHub Profile README ever made.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Welcome%20to%20My%20GitHub&fontSize=48&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 
-The design should look almost identical to a futuristic cyberpunk developer portfolio, not a normal README.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=👋+Hi,+I'm+Aswin+P;💻+Python+Backend+Developer;🚀+Django+Developer;📚+BCA+Graduate;🎓+Currently+Pursuing+MCA;🌱+Learning+FastAPI+%26+AI;✨+Open+to+Work"/>
 
-Theme:
-Dark
-Neon Blue
-Purple
-Cyan
-Glassmorphism
-Gradient
-Animated
-Modern
-Premium
-Developer Portfolio
+<br>
 
-The README should look like a landing page.
+<img src="https://komarev.com/ghpvc/?username=aswinp2002&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-==================================================
+<img src="https://img.shields.io/github/followers/aswinp2002?style=for-the-badge&logo=github&color=blue"/>
 
-PERSONAL DETAILS
+<img src="https://img.shields.io/github/stars/aswinp2002?style=for-the-badge&logo=github&color=yellow"/>
 
-Name:
-Aswin P
+<br><br>
 
-Headline:
-Python Backend Developer | Django Developer
+<img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge"/>
 
-Education:
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Django-Backend-success?style=for-the-badge&logo=django"/>
+
+<img src="https://img.shields.io/badge/MCA-Student-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👋 Hello Developers!
+
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+## 💫 About Me
+
 🎓 BCA Graduate
+
 📚 Currently pursuing MCA
 
-Email:
-aswinp.copilot@gmail.com
+💻 Python Backend Developer
 
-GitHub:
-https://github.com/aswinp2002
+🚀 Django Developer
 
-Status:
-🟢 Open to Work
+🌱 Learning
 
-==================================================
+- Django REST Framework
+- FastAPI
+- Docker
+- Artificial Intelligence
 
-ABOUT
+💼 Open to Work
 
-Passionate backend developer who enjoys building scalable web applications using Python and Django.
+📧 Email
 
-Interested in
+**aswinp.copilot@gmail.com**
 
-• Backend Development
-• REST APIs
-• AI
-• Automation
-• Databases
-• Cloud
+🌐 GitHub
 
-Learning
+**https://github.com/aswinp2002**
 
-• Django REST Framework
-• FastAPI
-• Docker
-• GitHub Actions
-• AI Integration
+<br clear="right"/>
 
-==================================================
-
-TECH STACK
-
-Python
-
-Django
-
-FastAPI
-
-Java
-
-JavaScript
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-TailwindCSS
-
-SQLite
-
-MySQL
-
-Git
-
-GitHub
-
-VS Code
-
-Docker
-
-Postman
-
-==================================================
-
-FEATURED PROJECTS
-
-1. BlockVerify
-Blockchain-based fake product detection using QR verification.
-
-2. InsureAI
-AI-powered Insurance Recommendation and Policy Analysis.
-
-3. Smart File Organizer
-Automatically organize files using Python.
-
-==================================================
-
-I want the README to contain
-
-⭐ Huge Animated Banner
-
-⭐ Neon Animated Typing Text
-
-⭐ Glassmorphism Cards
-
-⭐ Gradient Sections
-
-⭐ Beautiful Dividers
-
-⭐ Animated GIF
-
-⭐ Coding GIF
-
-⭐ Tech Stack Icons
-
-⭐ Project Cards
-
-⭐ Visitor Counter
-
-⭐ GitHub Trophy
-
-⭐ Contribution Graph
-
-⭐ Contribution Streak
-
-⭐ Top Languages
-
-⭐ GitHub Statistics
-
-⭐ Snake Contribution Animation
-
-⭐ Connect With Me Cards
-
-⭐ Footer Animation
-
-⭐ Dark Cyberpunk Theme
-
-⭐ Professional Recruiter Friendly Layout
-
-⭐ Mobile Responsive
-
-⭐ Markdown + HTML
-
-⭐ Use tables where useful
-
-⭐ Use centered layouts
-
-⭐ Use animated badges
-
-⭐ Use colorful icons
-
-==================================================
-
-The README should look like a premium developer website instead of a normal GitHub README.
-
-The final output should be one complete README.md ready to paste into GitHub.
-
-The README should be over 700 lines long.
-
-Do NOT simplify the design.
-
-Do NOT use plain Markdown.
-
-Use HTML wherever needed.
-
-Make it look like the best GitHub profile on the internet.
+---
