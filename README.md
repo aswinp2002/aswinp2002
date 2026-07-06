@@ -161,6 +161,173 @@
 
 ---
 
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%">
+
+## 🛡️ BlockVerify
+
+Blockchain-based Fake Product Detection System using QR Codes.
+
+### ⚡ Features
+
+✔ Product Authentication
+
+✔ Blockchain Security
+
+✔ QR Verification
+
+✔ Supply Chain Tracking
+
+✔ Counterfeit Detection
+
+### 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=django" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+
+</p>
+
+</td>
+
+<td width="33%">
+
+## 🤖 InsureAI
+
+AI-powered Insurance Recommendation & Policy Analysis.
+
+### ⚡ Features
+
+✔ AI Chatbot
+
+✔ OCR
+
+✔ PDF Analysis
+
+✔ Claim Prediction
+
+✔ Smart Recommendations
+
+### 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=django" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+
+</p>
+
+</td>
+
+<td width="33%">
+
+## 📂 Smart File Organizer
+
+Automatically organize files with Python automation.
+
+### ⚡ Features
+
+✔ Auto File Sorting
+
+✔ Duplicate Detection
+
+✔ Folder Monitoring
+
+✔ Report Generation
+
+✔ Storage Analysis
+
+### 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 Career Goals
+
+✨ Become an Expert Python Backend Developer
+
+✨ Master Django & FastAPI
+
+✨ Build Scalable REST APIs
+
+✨ Learn Cloud Deployment (AWS / Azure)
+
+✨ Contribute to Open Source
+
+✨ Build AI-powered Applications
+
+---
+
+# 🏅 Achievements
+
+🏆 BCA Graduate
+
+📚 Currently pursuing MCA
+
+💻 Passionate Python Developer
+
+🚀 Built Multiple Full-Stack Projects
+
+🌱 Continuous Learner
+
+🤝 Open to Collaboration
+
+---
+
+<div align="center">
+
+## 🌟 Developer Mindset
+
+<img src="https://img.shields.io/badge/Code-Everyday-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learn-Always-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Build-Projects-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Never-Stop%20Learning-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 
