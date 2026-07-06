@@ -32,6 +32,6 @@ Python Developer | Django Developer | MCA Graduate
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinp2002&show_icons=true&theme=tokyonight)
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinp2002&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinp2002&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinp2002&layout=compact&theme=github_dark&cache_seconds=1800)
