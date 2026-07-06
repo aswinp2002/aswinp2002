@@ -1,14 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm Aswin P
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Welcome%20to%20My%20GitHub&fontSize=48&fontAlignY=38&animation=twinkling&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=650&lines=Python+Developer;Django+Developer;Backend+Developer;Currently+Pursuing+MCA;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=👋+Hi,+I'm+Aswin+P;💻+Python+Backend+Developer;🚀+Django+Developer;🌱+Currently+Pursuing+MCA;✨+Always+Learning+New+Technologies;💼+Open+to+Work"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
+<img src="https://komarev.com/ghpvc/?username=aswinp2002&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
+
+<h2 align="center">🚀 Backend Developer | Python Enthusiast | Django Developer</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d0c84c5-4e95-4b9c-bf86-9fcbf6dba3e5.gif" width="100%">
 
 # 👨‍💻 About Me
 
@@ -16,25 +38,34 @@
 
 📚 **Currently pursuing MCA**
 
-💻 Passionate **Python & Django Developer**
+💻 Passionate **Python Backend Developer**
+
+🚀 Interested in
+
+- Backend Development
+- Django
+- REST APIs
+- Artificial Intelligence
+- Automation
+- Database Design
 
 🌱 Currently Learning
 
 - Django REST Framework
 - FastAPI
 - Docker
-- Artificial Intelligence
-- REST APIs
+- GitHub Actions
+- AI Integration
 
-🚀 Current Projects
+💼 Looking for
 
-- 🔹 BlockVerify
-- 🔹 InsureAI
-- 🔹 Smart File Organizer
+**Python Developer**
 
-💼 **Open to Python / Django Developer Opportunities**
+**Backend Developer**
 
-📫 **Email**
+**Django Developer**
+
+📧 Email
 
 **aswinp.copilot@gmail.com**
 
@@ -42,7 +73,7 @@
 
 # 🚀 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
 <p>
 
@@ -58,7 +89,7 @@
 
 ---
 
-### 🌐 Web Development
+### 🌐 Web Technologies
 
 <p>
 
@@ -88,7 +119,7 @@
 
 ---
 
-### 🛠 Tools
+### ⚙ Tools
 
 <p>
 
@@ -106,42 +137,50 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d0c84c5-4e95-4b9c-bf86-9fcbf6dba3e5.gif" width="100%">
+
 # 📂 Featured Projects
 
 ## 🚀 BlockVerify
 
-Blockchain-based Fake Product Detection using QR Codes
+Blockchain-based Fake Product Detection using QR Codes.
+
+**Technologies**
 
 - Django
 - Blockchain
-- QR Verification
-- Supply Chain Tracking
+- QR Code
+- SQLite
 
 ---
 
 ## 🤖 InsureAI
 
-AI-powered Insurance Recommendation & Policy Analysis
+AI-powered Insurance Recommendation & Policy Analysis.
+
+**Technologies**
 
 - Django
 - AI
 - OCR
-- PDF Analysis
+- PDF Processing
 
 ---
 
 ## 📁 Smart File Organizer
 
-Automatic File Organization using Python
+Automatic File Organization using Python.
 
-- Python
-- SQLite
-- Watchdog
-- Duplicate File Detection
+**Features**
+
+- Duplicate Detection
+- Folder Monitoring
+- Automatic Organization
+- SQLite Database
 
 ---
 
-# 🌟 Currently Learning
+# 🌱 Currently Learning
 
 ```text
 ✔ Django REST Framework
@@ -155,13 +194,27 @@ Automatic File Organization using Python
 ✔ AI Integration
 
 ✔ GitHub Actions
+
+✔ Backend Optimization
 ```
+
+---
+
+# 📈 GitHub Goals
+
+⭐ Build Production Ready Projects
+
+⭐ Learn Cloud Deployment
+
+⭐ Contribute to Open Source
+
+⭐ Become a Python Backend Engineer
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:aswinp.copilot@gmail.com">
 
@@ -181,8 +234,10 @@ Automatic File Organization using Python
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## 💡 Favorite Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+### "Code • Learn • Build • Repeat 🚀"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=gradient"/>
 
 </div>
