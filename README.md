@@ -1,70 +1,36 @@
-Create a premium, modern, fully animated GitHub Profile README.md for me.
+Act as an award-winning UI/UX designer and senior GitHub profile designer.
 
-My details:
+Create the most beautiful GitHub Profile README ever made.
 
-Name: Aswin P
+The design should look almost identical to a futuristic cyberpunk developer portfolio, not a normal README.
+
+Theme:
+Dark
+Neon Blue
+Purple
+Cyan
+Glassmorphism
+Gradient
+Animated
+Modern
+Premium
+Developer Portfolio
+
+The README should look like a landing page.
+
+==================================================
+
+PERSONAL DETAILS
+
+Name:
+Aswin P
+
+Headline:
+Python Backend Developer | Django Developer
 
 Education:
-- BCA Graduate
-- Currently pursuing MCA
-
-Role:
-- Python Backend Developer
-- Django Developer
-- Open to Work
-
-About Me:
-I am passionate about backend development and building real-world web applications using Python and Django. I enjoy learning new technologies and continuously improving my development skills. My goal is to become a skilled Backend Engineer and contribute to impactful software projects.
-
-Currently Learning:
-- Django REST Framework
-- FastAPI
-- Docker
-- REST APIs
-- Artificial Intelligence
-- GitHub Actions
-
-Tech Stack:
-Programming:
-Python
-Java
-JavaScript
-C
-
-Backend:
-Django
-FastAPI
-
-Frontend:
-HTML5
-CSS3
-Bootstrap
-Tailwind CSS
-
-Database:
-MySQL
-SQLite
-
-Tools:
-Git
-GitHub
-VS Code
-Postman
-Docker
-
-Featured Projects:
-
-1. BlockVerify
-Blockchain-based fake product detection using QR code verification.
-Tech: Django, Blockchain, SQLite, QR Code
-
-2. InsureAI
-AI-powered insurance recommendation and policy analysis system.
-Tech: Django, AI, OCR, PDF Analysis
-
-3. Smart File Organizer
-Automatically organize files, detect duplicates, and monitor folders.
-Tech: Python, SQLite, Watchdog
+🎓 BCA Graduate
+📚 Currently pursuing MCA
 
 Email:
 aswinp.copilot@gmail.com
@@ -72,45 +38,149 @@ aswinp.copilot@gmail.com
 GitHub:
 https://github.com/aswinp2002
 
-Requirements:
+Status:
+🟢 Open to Work
 
-Create a visually stunning README with a dark cyberpunk/neon theme.
+==================================================
 
-Include:
+ABOUT
 
-• Animated capsule-render header
-• Animated typing text
-• Gradient sections
-• Colorful badges
-• Glassmorphism cards
-• Tech stack icons using skillicons.dev
-• About Me section
-• Current Learning section
-• Featured Projects cards
-• GitHub trophies
-• GitHub contribution graph
-• Contribution streak
-• GitHub statistics
-• Top languages
-• Snake contribution animation
-• Visitor counter
-• Connect With Me section
-• Coding GIF
-• Footer with animated wave
-• Recruiter-friendly layout
-• Mobile responsive
-• Professional spacing
-• Modern emojis
-• Markdown + HTML combination
-• Center alignment where appropriate
-• Beautiful dividers
-• Neon glowing appearance
+Passionate backend developer who enjoys building scalable web applications using Python and Django.
 
-Do NOT claim that I have completed MCA.
-Mention only:
-"BCA Graduate"
-"Currently pursuing MCA"
+Interested in
 
-Generate one complete README.md file only.
+• Backend Development
+• REST APIs
+• AI
+• Automation
+• Databases
+• Cloud
 
-The output should be production-ready and over 500 lines long, similar in quality to the best GitHub profile READMEs featured on GitHub Profile Guide and top open-source developer profiles.
+Learning
+
+• Django REST Framework
+• FastAPI
+• Docker
+• GitHub Actions
+• AI Integration
+
+==================================================
+
+TECH STACK
+
+Python
+
+Django
+
+FastAPI
+
+Java
+
+JavaScript
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+TailwindCSS
+
+SQLite
+
+MySQL
+
+Git
+
+GitHub
+
+VS Code
+
+Docker
+
+Postman
+
+==================================================
+
+FEATURED PROJECTS
+
+1. BlockVerify
+Blockchain-based fake product detection using QR verification.
+
+2. InsureAI
+AI-powered Insurance Recommendation and Policy Analysis.
+
+3. Smart File Organizer
+Automatically organize files using Python.
+
+==================================================
+
+I want the README to contain
+
+⭐ Huge Animated Banner
+
+⭐ Neon Animated Typing Text
+
+⭐ Glassmorphism Cards
+
+⭐ Gradient Sections
+
+⭐ Beautiful Dividers
+
+⭐ Animated GIF
+
+⭐ Coding GIF
+
+⭐ Tech Stack Icons
+
+⭐ Project Cards
+
+⭐ Visitor Counter
+
+⭐ GitHub Trophy
+
+⭐ Contribution Graph
+
+⭐ Contribution Streak
+
+⭐ Top Languages
+
+⭐ GitHub Statistics
+
+⭐ Snake Contribution Animation
+
+⭐ Connect With Me Cards
+
+⭐ Footer Animation
+
+⭐ Dark Cyberpunk Theme
+
+⭐ Professional Recruiter Friendly Layout
+
+⭐ Mobile Responsive
+
+⭐ Markdown + HTML
+
+⭐ Use tables where useful
+
+⭐ Use centered layouts
+
+⭐ Use animated badges
+
+⭐ Use colorful icons
+
+==================================================
+
+The README should look like a premium developer website instead of a normal GitHub README.
+
+The final output should be one complete README.md ready to paste into GitHub.
+
+The README should be over 700 lines long.
+
+Do NOT simplify the design.
+
+Do NOT use plain Markdown.
+
+Use HTML wherever needed.
+
+Make it look like the best GitHub profile on the internet.
